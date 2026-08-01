@@ -87,7 +87,7 @@ I am an Electronics and Communication Engineering undergraduate with a strong in
 
 🌐 Portfolio: https://shaw-portfolio.netlify.app/
 
-💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
+💼 LinkedIn: https://www.linkedin.com/in/shawshubh/
 
 💻 GitHub: https://github.com/shaw-work
 
